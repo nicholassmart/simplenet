@@ -8,9 +8,9 @@ include_in_header: false
 June 16 2026
 
 # Privacy Policy
-Privacy Policy
-Effective Date: June 16, 2026
-Thank you for using upliNK.
+Privacy Policy<br>
+Effective Date: June 16, 2026<br>
+Thank you for using upliNK.<br>
 
 Information We Collect
 
